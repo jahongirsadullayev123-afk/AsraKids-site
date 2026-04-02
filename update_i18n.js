@@ -19,8 +19,7 @@ data.hero.subtitle.uz = `Biz e'tibordan chetda qolganlarning ovozimiz. O'zbekist
 data.hero.ctaPartner.ru = `Стать партнёром`;
 data.hero.ctaExplore.ru = `Узнать больше`;
 data.hero.ctaExplore.uz = `Batafsil ma'lumot`;
-data.hero.scroll.ru = `Листать вниз`;
-data.hero.scroll.uz = `Pastga`;
+
 
 data.impact.title.ru = `Масштаб проблемы в цифрах`;
 data.impact.title.uz = `Muammo ko'lami raqamlarda`;
