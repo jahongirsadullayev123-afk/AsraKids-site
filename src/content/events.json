@@ -1,0 +1,52 @@
+{
+  "title": {
+    "en": "Impact in Action",
+    "ru": "Наши действия",
+    "uz": "Amaliy harakatlarimiz"
+  },
+  "items": [
+    {
+      "id": "charity-visit",
+      "tag": {
+        "en": "Charity Visit",
+        "ru": "Благотворительность",
+        "uz": "Xayriya tashrifi"
+      },
+      "headline": {
+        "en": "🌟 AsraKids Charity Visit",
+        "ru": "🌟 Благотворительный визит AsraKids",
+        "uz": "🌟 AsraKids jamoasidan xayriya tashrifi"
+      },
+      "body": {
+        "en": [
+          "The AsraKids initiative organized a meaningful charity visit to Dialog School for Children with Disabilities as part of the IB MYP Service and Action project.",
+          "Our students brought essential supplies and spent valuable time together through interactive music games and creative art therapy activities, creating moments of genuine human connection."
+        ],
+        "ru": [
+          "В рамках школьного проекта был организован благотворительный визит AsraKids в школу «Диалог» для детей с ограниченными возможностями.",
+          "Наши ученики привезли необходимые вещи и провели с ребятами незабываемое время. Через музыкальные игры и арт-терапию нам удалось подарить детям радость и живое общение."
+        ],
+        "uz": [
+          "AsraKids tashabbusi maktab loyihasi doirasida imkoniyati cheklangan bolalarga ixtisoslashgan «Dialog» maktabiga xayriya tashrifini amalga oshirdi.",
+          "O‘quvchilarimiz nafaqat kerakli sovg'alarni ulashishdi, balki bolalar bilan birgalikda musiqiy o‘yinlar va art-terapiya mashg‘ulotlari orqali maroqli vaqt o‘tkazishdi. Biz ular bilan chin dildan suhbatlashib, ajoyib lahzalarni birga his etdik."
+        ]
+      },
+      "cta": {
+        "label": {
+          "en": "View Event Details",
+          "ru": "Подробнее о мероприятии",
+          "uz": "Tadbir tafsilotlari"
+        },
+        "href": "https://t.me/asra_kidsuz/87"
+      },
+      "image": {
+        "src": "https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1200&auto=format&fit=crop",
+        "alt": {
+          "en": "Charity Visit",
+          "ru": "Благотворительный визит",
+          "uz": "Xayriya tashrifi"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,702 @@
+{
+  "nav": {
+    "home": {
+      "en": "Home",
+      "ru": "Главная",
+      "uz": "Bosh sahifa"
+    },
+    "impact": {
+      "en": "Impact",
+      "ru": "Влияние",
+      "uz": "Ta’sir"
+    },
+    "events": {
+      "en": "Events",
+      "ru": "События",
+      "uz": "Tadbirlar"
+    },
+    "articles": {
+      "en": "Articles",
+      "ru": "Статьи",
+      "uz": "Maqolalar"
+    },
+    "contact": {
+      "en": "Contact",
+      "ru": "Контакты",
+      "uz": "Aloqa"
+    },
+    "partner": {
+      "en": "Partner With Us",
+      "ru": "Стать партнёром",
+      "uz": "Hamkor bo'lish"
+    },
+    "lang": {
+      "en": "Language",
+      "ru": "Язык",
+      "uz": "Til"
+    }
+  },
+  "hero": {
+    "quote": {
+      "en": "\"Every child deserves a childhood free from the burden of labour.\"",
+      "ru": "«Каждый ребёнок заслуживает детства без бремени тяжёлого труда».",
+      "uz": "«Har bir bola og'ir mehnatdan xoli, chinakam baxtli bolalikka haqli»."
+    },
+    "youthLabel": {
+      "en": "Youth Population",
+      "ru": "Доля молодежи",
+      "uz": "Yoshlar ulushi"
+    },
+    "titleLines": {
+      "en": [
+        "Children",
+        "Deserve",
+        "Childhood"
+      ],
+      "ru": [
+        "Дети",
+        "Заслуживают",
+        "Детства"
+      ],
+      "uz": [
+        "Bolalar",
+        "Baxtli",
+        "Bolalikka haqli"
+      ]
+    },
+    "subtitle": {
+      "en": "We are the voice for the voiceless. Advocating for the safety, education, and dignity of every child in Uzbekistan.",
+      "ru": "Мы — голос тех, кого не слышат. Мы боремся за безопасность, образование и достойное будущее каждого ребёнка в Узбекистане.",
+      "uz": "Biz e'tibordan chetda qolganlarning ovozimiz. O‘zbekistondagi har bir bolaning xavfsizlik, ta’lim va qadr-qimmati himoyasi uchun kurashamiz."
+    },
+    "ctaPartner": {
+      "en": "Partner With Us",
+      "ru": "Стать партнёром",
+      "uz": "Hamkor bo'lish"
+    },
+    "ctaExplore": {
+      "en": "Explore the Crisis",
+      "ru": "Узнать больше",
+      "uz": "Batafsil ma'lumot"
+    },
+    "heroBgAlt": {
+      "en": "Children in Uzbekistan",
+      "ru": "Дети в Узбекистане",
+      "uz": "O‘zbekistondagi bolalar"
+    },
+    "floatingAlt": {
+      "en": "Child",
+      "ru": "Ребёнок",
+      "uz": "Bola"
+    }
+  },
+  "impact": {
+    "title": {
+      "en": "The Crisis in Numbers",
+      "ru": "Масштаб проблемы в цифрах",
+      "uz": "Muammo ko'lami raqamlarda"
+    },
+    "stats": [
+      {
+        "num": "37.5%",
+        "desc": {
+          "en": "Of Uzbekistan's 36.7 million population are under the age of 19 — over 6.5 million are in secondary school alone.",
+          "ru": "Из 36,7 млн жителей Узбекистана 37,5% — это дети и подростки до 19 лет. Более 6,5 млн из них учатся в школах.",
+          "uz": "O‘zbekistonning 36,7 millionlik aholisining 37,5 foizini 19 yoshgacha bo‘lgan yoshlar tashkil etadi. Ularning 6,5 milliondan ortig‘i maktkablarda tahsil olishadi."
+        },
+        "color": "bg-[#2563EB]"
+      },
+      {
+        "num": "26%+",
+        "desc": {
+          "en": "More than a quarter of the population lives below the poverty line. In certain urban districts, it affects nearly 1 in 2.",
+          "ru": "Более четверти населения живёт за чертой бедности. В некоторых городских районах она затрагивает каждого второго.",
+          "uz": "Aholining to'rtdan bir qismidan ko'prog'i qashshoqlik chegarasidan past darajada yashaydi. Ayrim hududlarda qashshoqlik har ikkinchi insonga o'z ta'sirini ko'rsatmoqda."
+        },
+        "color": "bg-[#EF4444]"
+      },
+      {
+        "num": "60,000",
+        "desc": {
+          "en": "Children aged 0–17 across Central Asia remain in residential care facilities, separated from their families.",
+          "ru": "Дети от 0 до 17 лет в Центральной Азии всё ещё живут в интернатах, вдали от своих семей.",
+          "uz": "Markaziy Osiyo bo'ylab 60 000 nafar 0–17 yoshdagi bolalar o'z oilasidan uzilgan holda internat muassasalarida yashamoqda."
+        },
+        "color": "bg-[#0EA5E9]"
+      },
+      {
+        "num": "9,000",
+        "desc": {
+          "en": "Zero-dose children — unvaccinated infants — still exist in Uzbekistan despite high reported overall coverage.",
+          "ru": "«Нулевая доза»: в Узбекистане всё ещё остаются младенцы, не получившие ни одной прививки.",
+          "uz": "«Nol doza»: O‘zbekistonda hanuzgacha biror marta ham emlanmagan chaqaloqlar mavjud."
+        },
+        "color": "bg-[#94A3B8]"
+      }
+    ]
+  },
+  "issues": {
+    "kicker": {
+      "en": "Key Issues",
+      "ru": "Ключевые проблемы",
+      "uz": "Asosiy muammolar"
+    },
+    "title": {
+      "en": "What Children in Our Region Face",
+      "ru": "С чем сталкиваются дети",
+      "uz": "Bolalar qanday muammolarga duch kelmoqda?"
+    },
+    "desc": {
+      "en": "Behind every statistic is a child. Here are the most critical threats to childhood wellbeing in Uzbekistan.",
+      "ru": "За каждой цифрой стоит ребёнок. Вот главные угрозы благополучию детей в Узбекистане.",
+      "uz": "Har bir raqam ortida bola taqdiri yotadi. Quyida O‘zbekistonda bolalar farovonligiga xavf solayotgan основной muammolar keltirilgan."
+    },
+    "items": [
+      {
+        "key": "labour",
+        "icon": "Briefcase",
+        "color": "bg-blue-50",
+        "title": {
+          "en": "Child Labour",
+          "ru": "Детский труд",
+          "uz": "Bolalar mehnati"
+        },
+        "desc": {
+          "en": "Child labour persists in tire shops, street selling, and domestic work — driven by poverty.",
+          "ru": "Детский труд сохраняется в шиномонтажах, уличной торговле и домашнем хозяйстве в основном из-за бедности.",
+          "uz": "Bolalar mehnati ehtiyojmandlik oqibatida ustaxonalarda, ko‘cha savdosida va uy yumushlarida qo'llanilmoqda."
+        },
+        "label": {
+          "en": "~4% rate",
+          "ru": "Около 4%",
+          "uz": "Taxminan 4%"
+        }
+      },
+      {
+        "key": "poverty",
+        "icon": "AlertCircle",
+        "color": "bg-red-50",
+        "title": {
+          "en": "Family Poverty",
+          "ru": "Бедность семей",
+          "uz": "Oilaviy qashshoqlik"
+        },
+        "desc": {
+          "en": "Families earning minimum wage receive child benefits of only $10–$33 per child.",
+          "ru": "Семьи с минимальной зарплатой получают детское пособие в размере всего $10–$33 на ребёнка.",
+          "uz": "Minimal ish haqi oladigan oilalarga har bir bola uchun atigi 10–33 dollar miqdorida nafaqa to'lanadi."
+        },
+        "label": {
+          "en": "26%+ below poverty",
+          "ru": "Более 26% бедности",
+          "uz": "26%+ qashshoqlik darajasida"
+        }
+      },
+      {
+        "key": "care",
+        "icon": "Home",
+        "color": "bg-sky-50",
+        "title": {
+          "en": "Institutionalization",
+          "ru": "Жизнь в интернатах",
+          "uz": "Internatlardagi hayot"
+        },
+        "desc": {
+          "en": "Thousands are placed in state care because families lack the resources to care for them.",
+          "ru": "Тысячи детей попадают в детские дома просто потому, что у семей нет средств на их содержание.",
+          "uz": "Minglab bolalar oilalarning qiyin sharoiti sababli davlat (internatlar) qaramog‘iga topshirilmoqda."
+        },
+        "label": {
+          "en": "60,000 in care",
+          "ru": "60 000 детей в учреждениях",
+          "uz": "Internatlarda 60 000 bola"
+        }
+      },
+      {
+        "key": "education",
+        "icon": "BookOpen",
+        "color": "bg-blue-50",
+        "title": {
+          "en": "Education Inequality",
+          "ru": "Неравенство в образовании",
+          "uz": "Tàlim tizimidagi tengsizlik"
+        },
+        "desc": {
+          "en": "Classes are overcrowded with 35–38 students. Rural children face additional barriers.",
+          "ru": "В классах обучается по 35–38 детей. Дети из сельской местности сталкиваются с дополнительными преградами.",
+          "uz": "Sinflarda o‘quvchilar soni 35–38 nafargacha yetmoqda. Qishloq bolalari tàlim olishda qo'shimcha to‘siqlarga duch kelishadi."
+        },
+        "label": {
+          "en": "6.5M in public schools",
+          "ru": "6,5 млн школьников",
+          "uz": "Maktablarda 6,5 mln o'quvchi"
+        }
+      },
+      {
+        "key": "health",
+        "icon": "Stethoscope",
+        "color": "bg-blue-50",
+        "title": {
+          "en": "Healthcare Gaps",
+          "ru": "Пробелы в медицине",
+          "uz": "Tibbiyotdagi bo‘shliqlar"
+        },
+        "desc": {
+          "en": "Pre- and post-natal care is insufficient. Zero-dose children represent systemic failures.",
+          "ru": "Необходим лучший дородовой и послеродовой уход. Невакцинированные дети — признак системных проблем.",
+          "uz": "Tug‘ruq tibbiy yordam darajasi yetarli emas. Emlanmagan bolalarning mavjudligi tizimli muammolardan darak beradi."
+        },
+        "label": {
+          "en": "9,000 unvaccinated",
+          "ru": "9 000 без прививок",
+          "uz": "9 000 nafar bola emlanmagan"
+        }
+      },
+      {
+        "key": "refugees",
+        "icon": "Globe",
+        "color": "bg-blue-50",
+        "title": {
+          "en": "Refugee Children",
+          "ru": "Дети-беженцы",
+          "uz": "Qochoq bolalar"
+        },
+        "desc": {
+          "en": "Families arrive in complete poverty, often without luggage or language support.",
+          "ru": "Семьи прибывают в крайней нужде, часто без базовых вещей и знания языка.",
+          "uz": "Qochoq oilalar mamlakatga o'ta og'ir ahvolda, ko‘pincha kiyimsiz va til bilmasdan kelishadi."
+        },
+        "label": {
+          "en": "Thousands in camps",
+          "ru": "Тысячи в лагерях",
+          "uz": "Lagerlarda minglab bolalar"
+        }
+      }
+    ]
+  },
+  "data": {
+    "title": {
+      "en": "Breakdown by Vulnerability Type",
+      "ru": "Уязвимые группы",
+      "uz": "Zaiflik turlari bo‘yicha tahlil"
+    },
+    "leftTitle": {
+      "en": "Children at Risk — by Category",
+      "ru": "Дети в зоне риска по категориям",
+      "uz": "Xavf ostidagi bolalar toifalari"
+    },
+    "leftMeta": {
+      "en": "Uzbekistan & Central Asia, 2024 estimates",
+      "ru": "Оценочные данные по Узбекистану и Центральной Азии, 2024 год",
+      "uz": "O‘zbekiston va Markaziy Osiyo, 2024"
+    },
+    "rightTitle": {
+      "en": "Progress Indicators",
+      "ru": "Индикаторы улучшений",
+      "uz": "Rivojlanish ko‘rsatkichlari"
+    },
+    "rightMeta": {
+      "en": "Recent improvements tracked by UNICEF, 2024",
+      "ru": "Положительная динамика по данным ЮНИСЕФ, 2024 год",
+      "uz": "UNICEF kuzatuvlariga ko‘ra so‘nggi o‘zgarishlar, 2024"
+    },
+    "progress": [
+      {
+        "val": 73,
+        "color": "bg-[#2563EB]",
+        "label": {
+          "en": "Preschool enrolment (2024)",
+          "ru": "Охват дошкольным образованием (2024)",
+          "uz": "Maktabgacha ta'lim qamrovi (2024)"
+        }
+      },
+      {
+        "val": 99,
+        "color": "bg-[#2563EB]",
+        "label": {
+          "en": "Primary school enrolment",
+          "ru": "Охват начальным образованием",
+          "uz": "Boshlang‘ich ta’lim bilan qamrab olinish"
+        }
+      },
+      {
+        "val": 60,
+        "color": "bg-[#0EA5E9]",
+        "label": {
+          "en": "Children in residential care ↓",
+          "ru": "Снижение числа детей в интернатах ↓",
+          "uz": "Internatlardagi bolalar sonining kamayishi ↓"
+        }
+      },
+      {
+        "val": 31,
+        "color": "bg-[#EF4444]",
+        "label": {
+          "en": "HIV-positive children on therapy",
+          "ru": "ВИЧ-положительные дети на терапии",
+          "uz": "Terapiya olayotgan OIV-musbat bolalar"
+        }
+      }
+    ]
+  },
+  "laws": {
+    "kicker": {
+      "en": "Legal Framework",
+      "ru": "Законодательство",
+      "uz": "Huquqiy normalar"
+    },
+    "title": {
+      "en": "Laws Protecting Children in Uzbekistan",
+      "ru": "Законы о защите прав детей в Узбекистане",
+      "uz": "O‘zbekistonda bolalar huquqlarini himoya qiluvchi qonunlar"
+    },
+    "items": [
+      {
+        "id": "UN",
+        "color": "bg-blue-50 text-blue-700",
+        "title": {
+          "en": "UN Convention on the Rights of the Child",
+          "ru": "Конвенция ООН о правах ребенка",
+          "uz": "BMTning Bola huquqlari to‘g‘risidagi konvensiyasi"
+        },
+        "desc": {
+          "en": "Ratified by Uzbekistan. Establishes the right to survival, protection, and development.",
+          "ru": "Ратифицирована Узбекистаном. Устанавливает право на выживание, защиту и развитие.",
+          "uz": "O‘zbekiston tomonidan qabul qilingan. Bolaning yashash, himoyalanish va rivojlanish huquqini ta'minlaydi."
+        }
+      },
+      {
+        "id": "Art 50",
+        "color": "bg-blue-50 text-blue-700",
+        "title": {
+          "en": "Constitution — Article 50",
+          "ru": "Конституция РУз — Статья 50",
+          "uz": "O'zbekiston Konstitutsiyasi — 50-modda"
+        },
+        "desc": {
+          "en": "Guarantees free and compulsory general secondary education across 11 years.",
+          "ru": "Гарантирует бесплатное и обязательное общее среднее образование (11 классов).",
+          "uz": "11 yillik bepul va majburiy umumiy o‘rta ta’limni kafolatlaydi."
+        }
+      },
+      {
+        "id": "LC 412",
+        "color": "bg-red-50 text-red-700",
+        "title": {
+          "en": "Labour Code Article 412 (2023)",
+          "ru": "Трудовой кодекс — Статья 412 (2023 г.)",
+          "uz": "Mehnat kodeksi 412-moddasi (2023)"
+        },
+        "desc": {
+          "en": "Prohibits children under 18 from hazardous work, nightclubs, and alcohol/tobacco sales.",
+          "ru": "Запрещает привлекать лиц до 18 лет к опасным работам, а также работе в ночных клубах.",
+          "uz": "18 yoshga to'lmaganlarni zararli ishlarda ishlashini qat'iyan man etadi."
+        }
+      },
+      {
+        "id": "ILO 138",
+        "color": "bg-blue-50 text-blue-700",
+        "title": {
+          "en": "ILO Convention No. 138",
+          "ru": "Конвенция МОТ № 138",
+          "uz": "XMT 138-sonli konvensiyasi"
+        },
+        "desc": {
+          "en": "Sets minimum age for employment. Uzbekistan sets it at 16, with 15 for light work.",
+          "ru": "Устанавливает минимальный возраст трудоустройства (в Узбекистане — 16 лет).",
+          "uz": "Ishga qabul qilishning minimal yoshini (o'zbekistonda 16 yosh) belgilaydi."
+        }
+      }
+    ]
+  },
+  "labour": {
+    "title": {
+      "en": "Who Is Most at Risk — and Why",
+      "ru": "Кто больше всех рискует и почему?",
+      "uz": "Kimlar katta xavf ostida va nega?"
+    },
+    "chartTitle": {
+      "en": "Where Child Labour Occurs",
+      "ru": "Где используется детский труд",
+      "uz": "Bolalar mehnati tarqalgan joylar"
+    },
+    "chartDesc": {
+      "en": "Informal sectors persist — driven almost entirely by family economic desperation and lack of systemic safety nets.",
+      "ru": "Неформальный сектор процветает в основном из-за острой нужды семей и отсутствия сильной соцзащиты.",
+      "uz": "Norasmiy tarmoqlarda bolalar mehnatidan amaliyot asosan oilalarning moliyaviy muammolari sababli davom etmoqda."
+    },
+    "quote": {
+      "en": "\"It often happens that a minor is forced to look for work due to difficult family circumstances.\"",
+      "ru": "«Часто подросток вынужден искать работу из-за трудной ситуации в семье».",
+      "uz": "«Ko'pincha oiladagi qiyinchiliklar sababli o‘smirlar ishlashga majbur bo‘lishadi»."
+    },
+    "quoteBy": {
+      "en": "— Madina Ochilova, lawyer & activist",
+      "ru": "— Мадина Очилова, юрист и правозащитник",
+      "uz": "— Madina Ochilova, huquqshunos"
+    },
+    "cards": [
+      {
+        "num": {
+          "en": "~$90",
+          "ru": "~$90",
+          "uz": "~$90"
+        },
+        "color": "border-[#2563EB]",
+        "title": {
+          "en": "Min. Monthly Wage",
+          "ru": "Мин. зарплата",
+          "uz": "Eng kam oylik"
+        },
+        "desc": {
+          "en": "Child benefits of only $10–$33 per child leave families facing impossible choices.",
+          "ru": "Детское пособие в размере $10–$33 ставит семьи в безвыходное положение.",
+          "uz": "10–33 dollarlik nafaqa oilalarni iqtisodiy jihatdan qiyin ahvolga solmoqda."
+        }
+      },
+      {
+        "num": {
+          "en": "1 in 2",
+          "ru": "1 из 2",
+          "uz": "2 dan 1 ta"
+        },
+        "color": "border-[#EF4444]",
+        "title": {
+          "en": "Urban Poverty",
+          "ru": "Городская бедность",
+          "uz": "Shaharlardagi qashshoqlik"
+        },
+        "desc": {
+          "en": "Certain urban districts see poverty affecting nearly half of all residents.",
+          "ru": "В некоторых городских районах бедность затрагивает почти каждого второго.",
+          "uz": "Ayrim hududlarda qashshoqlik deyarli har ikkinchi fuqaroga tegishli."
+        }
+      },
+      {
+        "num": {
+          "en": "21 days",
+          "ru": "21 день",
+          "uz": "21 kun"
+        },
+        "color": "border-[#0EA5E9]",
+        "title": {
+          "en": "Cotton Harvest",
+          "ru": "Сбор хлопка",
+          "uz": "Paxta terimi"
+        },
+        "desc": {
+          "en": "Adult pickers earn ~$150. Economic desperation historically drove children to work.",
+          "ru": "Из-за экономических трудностей дети исторически привлекались к полевым работам.",
+          "uz": "Iqtisodiy muammolar tarixdan bolalarni paxta dalalariga olib chiqqan."
+        }
+      },
+      {
+        "num": {
+          "en": "0 NGOs",
+          "ru": "0 НПО",
+          "uz": "0 NNT"
+        },
+        "color": "border-[#334155]",
+        "title": {
+          "en": "No Licensed NGOs",
+          "ru": "Нет НПО",
+          "uz": "NNTlar yo'q"
+        },
+        "desc": {
+          "en": "Activists report that NGO registration for child labour rights is routinely refused.",
+          "ru": "По данным активистов, НПО по правам детей в сфере труда часто не могут пройти регистрацию.",
+          "uz": "Faollarga ko'ra, bolalar mehnatiga oid NNTlarni ro'yxatdan o'tkazish umuman ruxsat etilmaydi."
+        }
+      }
+    ]
+  },
+  "team": {
+    "title": {
+      "en": "The People Behind AsraKids",
+      "ru": "Наша команда — лица AsraKids",
+      "uz": "AsraKids jamoasi bilan tanishing"
+    }
+  },
+  "mission": {
+    "kicker": {
+      "en": "Our Mission",
+      "ru": "Наша миссия",
+      "uz": "Tashkilot maqsadi"
+    },
+    "title": {
+      "en": "What We're Building Together",
+      "ru": "Что мы создаём вместе",
+      "uz": "Birgalikda nimani barpo qilyapmiz"
+    },
+    "quote": {
+      "en": "\"A child's future is not determined by where they were born — it is shaped by what we build around them.\"",
+      "ru": "«Будущее ребёнка не зависит от того, где он родился — оно зависит от среды, которую мы создадим вокруг него».",
+      "uz": "«Bolaning kelajagi qayerda tug'ilganiga emas, biz yaratgan atrof-muhitga bog'liq»."
+    },
+    "quoteBy": {
+      "en": "— AsraKids Mission Statement",
+      "ru": "— Цель AsraKids",
+      "uz": "— AsraKids maqsadi"
+    },
+    "bullets": {
+      "en": [
+        "Advocacy & Legal Support — Helping families navigate child protection laws.",
+        "Education Access Programs — Bridging the gap for children who fall through the cracks.",
+        "Family Reunification — Reducing institutionalization through support services.",
+        "Anti-Child Labour Initiatives — Providing economic alternatives for at-risk families.",
+        "Data & Transparency — Publishing verified data on child wellbeing."
+      ],
+      "ru": [
+        "Правовая защита — помощь семьям с законами о защите прав детей.",
+        "Доступ к образованию — помощь детям из уязвимых семей в получении знаний.",
+        "Сохранение семьи — социальная помощь для предотвращения передачи детей в интернаты.",
+        "Борьба с детским трудом — создание альтернатив для нуждающихся семей.",
+        "Открытость данных — сбор и публикация проверенной информации."
+      ],
+      "uz": [
+        "Huquqiy himoya — oilalarga bolalar himoyasi qonunlaridan foydalanishda yordam berish.",
+        "Ta’lim imkoniyatlari — moliyaviy muammoli oilalar farzandlarining o'qishini dastuqlash.",
+        "Oilani qo'llab quvvatlash — bolalarning internatlarga tushib qolishini oldini olish.",
+        "Bolalar mehnatiga qarshi kurash — muhtoj oilalarga yordam manbalarini tuzish.",
+        "Ma'lumotlar shaffofligi — ishonchli statistikalarni nashr etib turish."
+      ]
+    }
+  },
+  "footer": {
+    "about": {
+      "en": "About",
+      "ru": "О проекте",
+      "uz": "Loyiha haqida"
+    },
+    "programs": {
+      "en": "Programs",
+      "ru": "Программы",
+      "uz": "Dasturlar"
+    },
+    "connect": {
+      "en": "Connect",
+      "ru": "Контакты",
+      "uz": "Aloqa uchun"
+    },
+    "ourTeam": {
+      "en": "Our Team",
+      "ru": "Команда",
+      "uz": "Jamoamiz"
+    },
+    "ourMission": {
+      "en": "Our Mission",
+      "ru": "Миссия",
+      "uz": "Maqsadimiz"
+    },
+    "events": {
+      "en": "Events",
+      "ru": "Мероприятия",
+      "uz": "Tadbirlar ro'yxati"
+    },
+    "articles": {
+      "en": "Articles",
+      "ru": "Материалы",
+      "uz": "Materiallar"
+    },
+    "childLabour": {
+      "en": "Child Labour",
+      "ru": "Детский труд",
+      "uz": "Bolalar mehnati"
+    },
+    "familySupport": {
+      "en": "Family Support",
+      "ru": "Помощь семьям",
+      "uz": "Oilaviy ko'mak"
+    },
+    "education": {
+      "en": "Education",
+      "ru": "Образование",
+      "uz": "Ta'lim uchun"
+    },
+    "telegram": {
+      "en": "Telegram Channel",
+      "ru": "Наш Telegram",
+      "uz": "Telegram kanali"
+    },
+    "youtube": {
+      "en": "YouTube Channel",
+      "ru": "YouTube-канал",
+      "uz": "YouTube"
+    },
+    "instagram": {
+      "en": "Instagram",
+      "ru": "Instagram",
+      "uz": "Instagram"
+    },
+    "partner": {
+      "en": "Partner With Us",
+      "ru": "Сотрудничество",
+      "uz": "Biz bilan qoling"
+    },
+    "copyright": {
+      "en": "© 2026 AsraKids. Built with care by Khotamov Sarvar.",
+      "ru": "© 2026 AsraKids. Сделано с заботой. Разработчик Сарвар Хотамов.",
+      "uz": "© 2026 AsraKids. Mehr bilan yaratildi. Dasturchi Sarvar Xotamov."
+    },
+    "sources": {
+      "en": "Data sources: UNICEF, ILO, Humanium, US Dept. of Labor",
+      "ru": "Источники: UNICEF, ILO, Humanium, Минтруд США",
+      "uz": "Manbalar: UNICEF, ILO, Humanium, AQSh mehnat v-gi"
+    },
+    "copyright": {
+      "en": "© 2026 AsraKids. Built with care by Sadullayev Jahongir.",
+      "ru": "© 2026 AsraKids. Сделано с заботой. Разработчик Саъдуллаев Жахангир.",
+      "uz": "© 2026 AsraKids. Mehr bilan yaratildi. Dasturchi Sadullayev Jahongir."
+    }
+  },
+  "partnerSection": {
+    "openForCollab": {
+      "en": "Open for Collaboration",
+      "ru": "Открыты к сотрудничеству",
+      "uz": "Hamkorlik uchun ochiqmiz"
+    },
+    "title": {
+      "en": [
+        "Let's",
+        "amplify",
+        "our",
+        "impact",
+        "together."
+      ],
+      "ru": [
+        "Творить",
+        "изменения",
+        "мы",
+        "можем",
+        "вместе."
+      ],
+      "uz": [
+        "Biz",
+        "birgalikda",
+        "yanada",
+        "kuchliroq",
+        "bo'lamiz."
+      ]
+    },
+    "desc": {
+      "en": "We believe in the power of collective action. Whether you're a global organization or a local volunteer, your contribution is the catalyst for change.",
+      "ru": "Мы верим в силу совместных действий. Кем бы вы ни были — организацией или волонтёром — ваш вклад бесценен.",
+      "uz": "Biz kuch birlikda ekaniga ishonamiz. Tashkilot yoki ko'ngilli bo'lishingizdan qat'i nazar yordamingiz muhim."
+    },
+    "cardTitle": {
+      "en": "Partner with Us",
+      "ru": "Стать партнёром",
+      "uz": "Bizga qo'shiling"
+    },
+    "cardDesc": {
+      "en": "Join our network of change-makers. We provide the platform, the expertise, and the transparency—you provide the spark.",
+      "ru": "Присоединяйтесь к нашей сети энтузиастов. Мы предоставляем платформу и прозрачность, а вы приносите вдохновение.",
+      "uz": "O'zgartirishlar tarmog'imizga qo'shiling. Biz platformani - siz esa bu jamoaga quvvat berasiz."
+    },
+    "startConversation": {
+      "en": "Start a Conversation",
+      "ru": "Связаться с нами",
+      "uz": "Bizga yozish"
+    }
+  }
+}

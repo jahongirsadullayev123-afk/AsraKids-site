@@ -1,0 +1,50 @@
+[
+  {
+    "id": "discipline-abuse",
+    "title": {
+      "en": "Discipline = Abuse ❓",
+      "ru": "Дисциплина или насилие? ❓",
+      "uz": "Intizom yoki zo‘ravonlik? ❓"
+    },
+    "desc": {
+      "en": "In many families, harsh treatment is seen as discipline. But science shows corporal punishment is abuse, harming mental health and future relationships.",
+      "ru": "Во многих семьях грубое обращение с детьми воспринимается как норма воспитания. Однако наука неумолима: телесные наказания — это форма насилия, которая наносит непоправимый вред психическому здоровью и будущим отношениям ребенка.",
+      "uz": "Bunday munosabat ko‘pgina oilalarda odatiy tarbiya usuli sifatida qabul qilinadi. Ammo ilm-fan jismoniy jazolash zo‘ravonlik ekanligini, bu bolaning ruhiy salomatligi va istiqboldagi munosabatlariga chuqur jarohat yetkazishini isbotlagan."
+    },
+    "link": "https://t.me/asra_kidsuz/21",
+    "image": "https://images.unsplash.com/photo-1516627145497-ae6968895b74?q=80&w=1200&auto=format&fit=crop",
+    "color": "bg-red-50"
+  },
+  {
+    "id": "right-to-play",
+    "title": {
+      "en": "Do you know❓",
+      "ru": "А вы знали? ❓",
+      "uz": "Bilarmidingiz? ❓"
+    },
+    "desc": {
+      "en": "Play is a basic human right (UN Article 31), not a luxury. Limiting play causes stress and hinders social and creative development.",
+      "ru": "Игра — это неотъемлемое право ребенка (ст. 31 Конвенции ООН), а не просто привилегия. Ограничение в играх вызывает стресс, а также тормозит творческое и социальное развитие малыша.",
+      "uz": "O‘yin — shunchaki mashg'ulot emas, balki bolaning ajralmas huquqidir (BMT Konvensiyasi 31-modda). O‘yin o'ynashni cheklash bolada stress uyg'otadi va uning ijtimoiy hamda ijodiy rivojlanishiga jiddiy to'sqinlik qiladi."
+    },
+    "link": "https://t.me/asra_kidsuz/36",
+    "image": "https://images.unsplash.com/photo-1502086223501-7ea6ecd79368?q=80&w=1200&auto=format&fit=crop",
+    "color": "bg-blue-50"
+  },
+  {
+    "id": "firstborn-second-parent",
+    "title": {
+      "en": "📍“Kattasi kichikni boqsin”",
+      "ru": "📍«Старший в ответе за младшего»",
+      "uz": "📍“Kattasi kichikni boqsin”"
+    },
+    "desc": {
+      "en": "The 'firstborn as second parent' culture can lead to a childhood of sacrifice, causing chronic stress and anxiety in later life.",
+      "ru": "Культура, при которой старший ребенок становится «вторым родителем», крадет у него детство. В будущем это может обернуться хроническим стрессом и повышенной тревожностью.",
+      "uz": "Katta farzandni «ikkinchi ota-ona»ga aylantirish odati bolalikning qurbon bo'lishiga olib keladi. Bu esa keyinchalik doimiy stress, xavotir va tushkunlikni keltirib chiqaradi."
+    },
+    "link": "https://t.me/asra_kidsuz/46",
+    "image": "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?q=80&w=1200&auto=format&fit=crop",
+    "color": "bg-blue-50"
+  }
+]

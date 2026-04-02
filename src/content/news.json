@@ -1,0 +1,63 @@
+{
+  "kicker": {
+    "en": "Latest Updates",
+    "ru": "Последние новости",
+    "uz": "So‘nggi xabarlar"
+  },
+  "title": {
+    "en": "What's Happening Soon",
+    "ru": "Ближайшие планы",
+    "uz": "Kelgusi rejalar"
+  },
+  "leftCard": {
+    "badge": {
+      "en": "Upcoming Event",
+      "ru": "Анонс",
+      "uz": "Tez kunda"
+    },
+    "title": {
+      "en": "New Charity Initiatives Coming Soon",
+      "ru": "Новые благотворительные инициативы – уже скоро",
+      "uz": "Yangi xayriya loyihalari tez orada"
+    },
+    "desc": {
+      "en": "We are currently planning several major events for the upcoming months. Stay tuned for updates on our Telegram channel!",
+      "ru": "Мы активно готовим несколько крупных мероприятий, которые пройдут в ближайшие месяцы. Следите за обновлениями в нашем Telegram-канале!",
+      "uz": "Kelgusi oylarda o‘tkazilishi rejalashtirilgan bir qator yirik tadbirlarga qizg'in tayyorgarlik ko'rmoqdamiz. Yangiliklardan xabardor bo‘lish uchun Telegram kanalimizni kuzatib boring!"
+    },
+    "meta": {
+      "en": "Locations to be announced",
+      "ru": "Место проведения уточняется",
+      "uz": "O'tkazilish joyi tez orada ma'lum qilinadi"
+    }
+  },
+  "rightCard": {
+    "title": {
+      "en": "Don't Miss Out",
+      "ru": "Оставайтесь на связи",
+      "uz": "Biz bilan qoling"
+    },
+    "desc": {
+      "en": "We post all our latest news, calls for volunteers, and event reports directly to our social channels.",
+      "ru": "Все свежие новости, призывы волонтёрам и отчеты о прошедших мероприятиях мы сразу публикуем в наших соцсетях.",
+      "uz": "Barcha yangiliklar, volontyorlar uchun chaqiruvlar va o'tgan tadbirlar hisobotlarini birinchilardan bo'lib ijtimoiy tarmoqlarimizda e’lon qilib boramiz."
+    },
+    "links": [
+      {
+        "id": "telegram",
+        "label": "Telegram",
+        "href": "https://t.me/asra_kidsuz"
+      },
+      {
+        "id": "instagram",
+        "label": "Instagram",
+        "href": "https://www.instagram.com"
+      },
+      {
+        "id": "youtube",
+        "label": "YouTube",
+        "href": "https://youtube.com/@asrakids?si=GuAOeax5ikN_7Uy3"
+      }
+    ]
+  }
+}
