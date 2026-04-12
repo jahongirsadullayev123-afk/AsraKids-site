@@ -633,10 +633,10 @@
       "ru": "Сотрудничество",
       "uz": "Biz bilan qoling"
     },
-    "copyright": {
-      "en": "© 2026 AsraKids. Built with care by Khotamov Sarvar.",
-      "ru": "© 2026 AsraKids. Сделано с заботой. Разработчик Сарвар Хотамов.",
-      "uz": "© 2026 AsraKids. Mehr bilan yaratildi. Dasturchi Sarvar Xotamov."
+    "tagline": {
+      "en": "Protecting the rights and futures of vulnerable children across Uzbekistan and Central Asia.",
+      "ru": "Защита прав и будущего уязвимых детей в Узбекистане и Центральной Азии.",
+      "uz": "O'zbekiston va Markaziy Osiyodagi ehtiyojmand bolalar huquqlari va kelajagini himoya qilish."
     },
     "sources": {
       "en": "Data sources: UNICEF, ILO, Humanium, US Dept. of Labor",
@@ -693,5 +693,84 @@
       "ru": "Связаться с нами",
       "uz": "Bizga yozish"
     }
+  },
+  "journal": {
+    "title": {
+      "en": "Our Journey of Impact",
+      "ru": "Хроника добрых дел",
+      "uz": "Yaxshilik amallari xronikasi"
+    },
+    "subtitle": {
+      "en": "Real stories from the ground. Every visit, every smile, and every child helped is a step towards a better future.",
+      "ru": "Реальные истории с мест событий. Каждый визит, каждая улыбка и каждый ребенок, которому мы помогли — это шаг к лучшему будущему.",
+      "uz": "Haqiqiy voqealar joyidan lavhalar. Har bir uchrashuv va bolajonlar tabassumi yaxshi kelajak sari tashlangan navbatdagi qadamdir."
+    },
+    "viewMore": {
+      "en": "View full story",
+      "ru": "Читать полностью",
+      "uz": "Batafsil o'qish"
+    },
+    "items": [
+      {
+        "id": "dialog-school",
+        "folder": "dialog-school",
+        "date": {
+          "en": "March 2024",
+          "ru": "Март 2024",
+          "uz": "Mart 2024"
+        },
+        "location": {
+          "en": "Dialog School for Children with Disabilities",
+          "ru": "Школа «Dialog» для детей с особыми потребностями",
+          "uz": "«Dialog» imkoniyati cheklangan bolalar maktabi"
+        },
+        "tag": {
+          "en": "Kindness & Creativity",
+          "ru": "Творчество и забота",
+          "uz": "Mehr va ijod"
+        },
+        "headline": {
+          "en": "🌟 AsraKids Charity Visit",
+          "ru": "🌟 Благотворительная встреча AsraKids",
+          "uz": "🌟 AsraKids xayriya uchrashuvi"
+        },
+        "content": {
+          "en": "Implemented as part of the IB MYP Service and Action project, we organized a meaningful visit to Dialog School. From essential supplies to music games and art therapy, we focused on creating moments of genuine human connection and fostering a more inclusive community.",
+          "ru": "В рамках школьного проекта IB MYP Service and Action мы провели особенный день в школе «Dialog». Мы привезли не только нужные вещи, но и теплоту общения через музыку и творчество. Для нас это была история про искреннюю дружбу, поддержку и мир, где важен каждый ребенок.",
+          "uz": "IB MYP Service and Action maktab loyihasi doirasida biz «Dialog» maktabiga tashrif buyurib, unutilmas kun o'tkazdik. Biz nafaqat sovg'alar ulashdik, balki musiqa va art-terapiya orqali dildan suhbatlashdik. Bu tashrif biz uchun mehr-oqibat va har bir bola qadrli bo'lgan samimiy uchrashuv bo'ldi."
+        }
+      },
+      {
+        "id": "school-103",
+        "folder": "school-103",
+        "hasCertificate": true,
+        "photoCount": 6,
+        "date": {
+          "en": "April 2024",
+          "ru": "Апрель 2024",
+          "uz": "Aprel 2024"
+        },
+        "location": {
+          "en": "Specialized School No. 103 for Special Children",
+          "ru": "Специализированная школа №103 для особенных детей",
+          "uz": "103-sonli ixtisoslashtirilgan maktab"
+        },
+        "tag": {
+          "en": "Joy & Connection",
+          "ru": "Радость и тепло",
+          "uz": "Mehr va quvonch"
+        },
+        "headline": {
+          "en": "🌟 Heartfelt Moments at School No. 103",
+          "ru": "🌟 Искорки радости в школе №103",
+          "uz": "🌟 103-sonli maktabda dildan uchrashuv"
+        },
+        "content": {
+          "en": "We spent an incredible day sharing joy and connecting with the beautiful souls at Specialized School No. 103. Seeing their smiles reminded us of the power of kindness. We are deeply honored to have received a certificate of appreciation for our support.",
+          "ru": "Мы провели незабываемый день с удивительными ребятами из специализированной школы №103. Каждая улыбка ребенка стала для нас бесценным подарком. Мы искренне благодарны школе за полученный сертификат — для нас это символ нашей общей заботы о детях.",
+          "uz": "103-sonli ixtisoslashtirilgan maktabning ajoyib bolajonlari bilan birga o'tkazgan kunimiz qalbimizda unutilmas iz qoldirdi. Har bir bola tabassumi biz uchun eng katta mukofot bo'ldi. Jamoamizga berilgan minnatdorchilik yorlig'i biz uchun katta sharafdir."
+        }
+      }
+    ]
   }
 }
