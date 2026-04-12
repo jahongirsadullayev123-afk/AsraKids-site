@@ -644,7 +644,7 @@ const Articles = ({ lang }: { lang: Lang }) => (
     className="bg-[#F8FAFC] py-24 px-[5vw] border-t border-black/5"
   >
     <h2 className="text-serif text-4xl md:text-5xl mb-12">
-      {lang === 'ru' ? 'Материалы и осведомлённость' : lang === 'uz' ? 'Maqolalar va xabardorlik' : 'Insights & Awareness'}
+      {tr(lang, 'articles.title')}
     </h2>
 
     <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -677,7 +677,7 @@ const Articles = ({ lang }: { lang: Lang }) => (
               className="inline-flex items-center gap-2 text-[#2563EB] font-bold text-sm hover:gap-3 transition-all"
               onClick={() => track('cta_click', { id: `article_${article.id}`, href: article.link })}
             >
-              {lang === 'ru' ? 'Подробнее' : lang === 'uz' ? 'Batafsil' : 'Learn More'} <ArrowRight size={16} />
+              {tr(lang, 'common.learnMore')} <ArrowRight size={16} />
             </a>
           </div>
         </motion.div>

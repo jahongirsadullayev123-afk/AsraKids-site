@@ -36,6 +36,20 @@
       "uz": "Til"
     }
   },
+  "common": {
+    "learnMore": {
+      "en": "Learn More",
+      "ru": "Подробнее",
+      "uz": "Batafsil"
+    }
+  },
+  "articles": {
+    "title": {
+      "en": "Insights & Awareness",
+      "ru": "Материалы и осведомлённость",
+      "uz": "Maqolalar va xabardorlik"
+    }
+  },
   "hero": {
     "quote": {
       "en": "\"Every child deserves a childhood free from the burden of labour.\"",
